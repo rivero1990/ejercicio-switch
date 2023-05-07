@@ -1,14 +1,29 @@
+body {
+    font-size: larger;
+    display: grid;
+    place-items: center;
+}
+
 #opc-1 {
     color: white;
-    background-color: gray;
 }
 
 #opc-2 {
     color: violet;
-    background-color: black;
 }
 
 #opc-3 {
     color: pink;
-    background-color: brown;
+}
+
+select {
+    background-color: gray;
+}
+
+p {
+    width: 200px;
+}
+
+img {
+    margin-top: 20px;
 }
